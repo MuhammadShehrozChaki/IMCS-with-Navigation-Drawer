@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:id="@+id/home" android:title="Home"
+        android:icon="@drawable/home">
+    </item>
+
+    <item android:id="@+id/update" android:title="Update"
+        android:icon="@drawable/update"
+        android:iconTint="@color/colorPrimary"
+
+        ></item>
+
+    <item android:id="@+id/timetable" android:title="Time Table"
+        android:icon="@drawable/timetable"
+        android:iconTint="@color/colorPrimary"
+        ></item>
+
+    <item android:id="@+id/course" android:title="Course"
+        android:icon="@drawable/course"
+        android:iconTint="@color/colorPrimary"
+        ></item>
+
+    <item android:id="@+id/teacher" android:title="Teachers"
+        android:icon="@drawable/teacherss"
+        android:iconTint="@color/colorPrimary"
+        ></item>
+
+
+    <item android:id="@+id/about" android:title="About"
+        android:icon="@drawable/about"></item>
+
+    <item android:id="@+id/logout" android:title="Logout"
+        android:icon="@drawable/logout"></item>
+
+
+</menu>

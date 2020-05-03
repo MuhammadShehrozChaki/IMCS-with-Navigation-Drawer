@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">IMCS</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="nav_header">Imcs@Usindh.pk</string>
+    <string name="intro_text">The Institute of Mathematics and Computer Science was establish in 1986 by upgrading the Department of Mathematics founded in 1953. At present its major components are: Mathematics and Computer Science.  The Institute developed its research program for M.Phil and Ph.D degree in 1991 and has been enrolling students since then. This is in addition to the Bachelor and Master programs both in Mathematics and Computer Science."</string>
+
+
+
+
+
+    <string-array name="Teacher_Name">
+        <item>Dr.ABDUL WASIM</item>
+        <item>Dr.YASIR MALKANI</item>
+        <item>Dr.SYED HIRA FATIMA</item>
+        <item>Dr.HIBA QURESHI</item>
+        <item>Dr.FIDA HUSSAIN</item>
+        <item>DR.GULSHER LEGHARI</item>
+        <item>DR.IMTIAZ KEERIO</item>
+        <item>Dr.ABDUL GHAFOOR</item>
+        <item>Dr. ASADULLA BULADI</item>
+
+<!--/* Teachers Information*/-->
+
+    </string-array>
+    <string-array name="Description">
+        <item>ProfessorDirector</item>
+        <item>Professor</item>
+        <item>Professor</item>
+        <item>Professor</item>
+        <item>Assistant</item>
+        <item>Professor</item>
+        <item>Professor</item>
+        <item>Professor</item>
+        <item>Professor</item>
+
+    </string-array>
+
+    <string-array name="dr">
+    <item>dr.imcs@usindh.pk</item>
+    <item>yasir@usindh.pk</item>
+    <item>hira@usindh.pk</item>
+    <item>hiba@usindh.pk</item>
+    <item>fida@usindh.pk</item>
+    <item>gulsher@usindh.pk</item>
+    <item>imtiaz@usindh.pk</item>
+    <item>gafoor@usindh.edu.pk</item>
+    <item>asadulla@usindh.pk</item>
+
+    </string-array>
+</resources>
